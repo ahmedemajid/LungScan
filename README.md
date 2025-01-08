@@ -25,4 +25,4 @@ The goal is to accurately differentiate between tissue types using deep learning
    git clone https://github.com/yourusername/repository-name.git
 
 ### Note for preview of code
-Given the size of the dataset, the reader will need to scroll through ** a large block ** to view the remaining code.
+Given the size of the dataset, the reader will need to scroll through a large block to view the remaining code.
